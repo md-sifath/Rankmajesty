@@ -1,0 +1,49 @@
+.page-title-box{
+    padding-top:30px;
+    font-size:25px !important;
+}
+.page-title{
+    font-size: 25px !important;
+    font-weight: 600;
+    color: #000 !important;
+    font-family: "Poppins", sans-serif;
+}
+.avatar-section{
+    display: inline-block;
+    width: 150px;
+}
+.profile-user-box{
+    padding: 50px;
+}
+
+.password-card{
+    padding: 40px;
+}
+.height{
+    height: 35px !important;
+    border-radius: .375rem !important;
+}
+select{
+    height: 35px;
+    width: 100%;
+    border-radius: .375rem;
+    padding: 0.25rem .75rem;
+    border: 1px solid #d2ddec;
+}
+select::selection{
+    border: 1px solid #d2ddec;
+}
+.profile_img img {
+    width: 120px;
+    height: 128px;
+    border-radius: 50%;
+    border: 2px solid #eef2f7;
+  }
+  .cameraImg{
+    
+        position: absolute;
+        top: 145px;
+        left: 136px;
+        font-size: 20px;
+    
+  }
